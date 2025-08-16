@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Pathum Jayasiri</h1>
-<h3 align="center">🚀 Software Engineering Student | 💻 Passionate Developer</h3>
+<h3 align="center">💻 Software Engineering Student | 🌍 Sri Lanka</h3>
 
 ---
 
-### 🌟 About Me  
-- 🌱 Currently learning **MERN Stack + Cloud**  
-- 🛠️ Love working on **full-stack applications**  
-- 📊 Interested in **Data Structures, Algorithms, and System Design**  
-- ⚡ Fun fact: "I write code that works… eventually 😅"  
+### 🚀 About Me  
+- 🔭 I’m currently working on **Full-Stack Web Development Projects**  
+- 🌱 Exploring **DevOps & Cloud Platforms**  
+- 🎯 Goal: To build scalable software that solves real-world problems  
+- ⚡ Hobbies: Coding, Reading tech blogs, Gaming 🎮  
 
 ---
 
-### 🛠️ Tech Stack  
+### 🛠️ Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,java,python,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,java,python,git,github,vscode,docker&perline=7" />
 </p>
 
 ---
@@ -22,17 +22,29 @@
 ### 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pathumjayasiri&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathumjayasiri&layout=compact&theme=radical" height="170"/>
+  <!-- Standard Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pathumjayasiri&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathumjayasiri&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pathumjayasiri&theme=radical" height="170"/>
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pathumjayasiri&theme=tokyonight" height="170"/>
 </p>
 
-<!-- 🔥 NEW CHART -->
+---
+
+### 📈 Extra GitHub Static Charts  
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pathumjayasiri&theme=radical" height="200"/>
+  <!-- NEW STATIC CONTRIBUTION CHART -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pathumjayasiri&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pathumjayasiri&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pathumjayasiri&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pathumjayasiri&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -40,12 +52,12 @@
 ### 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pathumjayasiri&theme=radical&no-frame=true&margin-w=10&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pathumjayasiri&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-### 📬 Connect with me  
+### 📬 Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pathum-jayasiri-10a905337">
