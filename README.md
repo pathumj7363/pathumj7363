@@ -23,13 +23,13 @@
 
 <p align="center">
   <!-- Standard Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=pathumjayasiri&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathumjayasiri&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pathumj7363&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathumj7363&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
   <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pathumjayasiri&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pathumj7363&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -38,13 +38,13 @@
 
 <p align="center">
   <!-- NEW STATIC CONTRIBUTION CHART -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pathumjayasiri&theme=tokyonight" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pathumjayasiri&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pathumj7363&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pathumj7363&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pathumjayasiri&theme=tokyonight" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pathumjayasiri&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pathumj7363&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pathumj7363&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -52,7 +52,7 @@
 ### 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pathumjayasiri&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pathumj7363&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
