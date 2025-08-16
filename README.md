@@ -49,12 +49,6 @@
 
 ---
 
-### 🏆 Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pathumj7363&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
 ---
 
 ### 📬 Connect with Me  
@@ -72,8 +66,5 @@
 </p>
 
 ---
-
-### 🐍 Fun Animation  
-![snake gif](https://github.com/pathumjayasiri/pathumjayasiri/blob/output/github-contribution-grid-snake.svg)
 
 ---
