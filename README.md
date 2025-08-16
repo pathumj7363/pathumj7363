@@ -1,62 +1,81 @@
-<h1 align="center">Hi 👋, I'm Pathum Jayasiri</h1>
-<h3 align="center">A passionate Software Engineering Student from Sri Lanka</h3>
+import React from "react";
+import { Card, CardContent } from "@/components/ui/card";
+import { PieChart, Pie, Cell, Tooltip, Legend } from "recharts";
+import { motion } from "framer-motion";
 
----
+const data = [
+  { name: "JavaScript", value: 40 },
+  { name: "Python", value: 25 },
+  { name: "Java", value: 15 },
+  { name: "C++", value: 10 },
+  { name: "Other", value: 10 },
+];
 
-### 🚀 About Me  
-- 🌱 I’m currently learning **MERN Stack & Cloud Computing**  
-- 💡 Love solving problems and building scalable apps  
-- 🎯 Goal: To become a **Full-Stack Software Engineer**  
-- ⚡ Fun fact: I debug more than I code 😅  
+const COLORS = ["#0088FE", "#00C49F", "#FFBB28", "#FF8042", "#AA66CC"];
 
----
+export default function ProfileDashboard() {
+  return (
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-6 p-6">
+      {/* LinkedIn + GitHub Info */}
+      <motion.div
+        initial={{ opacity: 0, y: 20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.6 }}
+      >
+        <Card className="rounded-2xl shadow-lg p-4">
+          <CardContent>
+            <h2 className="text-xl font-bold mb-2">🌐 LinkedIn</h2>
+            <p className="text-base mb-4">
+              <a
+                href="https://www.linkedin.com/in/pathum-jayasiri-10a905337/"
+                target="_blank"
+                className="text-blue-600 underline"
+              >
+                linkedin.com/in/pathum-jayasiri-10a905337
+              </a>
+            </p>
 
-### 🛠️ Tech Stack  
+            <h2 className="text-xl font-bold mb-2">💻 GitHub</h2>
+            <p className="text-base">
+              <a
+                href="https://github.com/your-github-username"
+                target="_blank"
+                className="text-gray-800 underline"
+              >
+                github.com/your-github-username
+              </a>
+            </p>
+          </CardContent>
+        </Card>
+      </motion.div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,git,github,vscode&perline=6" />
-</p>
-
----
-
-### 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pathumjayasiri&show_icons=true&theme=react" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathumjayasiri&layout=compact&theme=react" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pathumjayasiri&theme=react" height="180"/>
-</p>
-
----
-
-### 🏆 Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pathumjayasiri&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### 📬 Connect with me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pathum-jayasiri-10a905337">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🐍 Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/pathumjayasiri/pathumjayasiri/blob/output/github-contribution-grid-snake.svg)
-
----
+      {/* GitHub Analytics Pie Chart */}
+      <motion.div
+        initial={{ opacity: 0, y: 20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.6, delay: 0.2 }}
+      >
+        <Card className="rounded-2xl shadow-lg p-4 flex flex-col items-center">
+          <h2 className="text-xl font-bold mb-4">📊 GitHub Language Distribution</h2>
+          <PieChart width={300} height={300}>
+            <Pie
+              data={data}
+              cx="50%"
+              cy="50%"
+              innerRadius={60}
+              outerRadius={100}
+              paddingAngle={5}
+              dataKey="value"
+            >
+              {data.map((entry, index) => (
+                <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
+              ))}
+            </Pie>
+            <Tooltip />
+            <Legend />
+          </PieChart>
+        </Card>
+      </motion.div>
+    </div>
+  );
+}
