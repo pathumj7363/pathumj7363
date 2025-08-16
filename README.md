@@ -1,47 +1,62 @@
-# 👋 Hi, I'm Pathum Jayasiri  
-
-💡 I’m passionate about building **scalable web & mobile applications** that solve real-world problems.  
-🎓 Software Engineering Student | 💻 Full Stack Developer in progress  
+<h1 align="center">Hi 👋, I'm Pathum Jayasiri</h1>
+<h3 align="center">A passionate Software Engineering Student from Sri Lanka</h3>
 
 ---
 
-## 🚀 Tech Stack
-
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-**Backend:**  
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+### 🚀 About Me  
+- 🌱 I’m currently learning **MERN Stack & Cloud Computing**  
+- 💡 Love solving problems and building scalable apps  
+- 🎯 Goal: To become a **Full-Stack Software Engineer**  
+- ⚡ Fun fact: I debug more than I code 😅  
 
 ---
 
-## 📈 GitHub Stats  
+### 🛠️ Tech Stack  
 
-![Pathum's GitHub stats](https://github-readme-stats.vercel.app/api?username=pathumjayasiri&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathumjayasiri&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pathumjayasiri&theme=tokyonight)  
-
----
-
-## ✍️ Recent Articles
-- [How I Started Learning React 🚀](#)  
-- [Understanding APIs in Simple Words 🔑](#)  
-- [Best Practices for Writing Clean Code ✨](#)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,git,github,vscode&perline=6" />
+</p>
 
 ---
 
-## 🌐 Connect with me  
+### 📊 GitHub Analytics  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pathum-jayasiri-10a905337)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://yourw)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pathumjayasiri&show_icons=true&theme=react" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathumjayasiri&layout=compact&theme=react" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pathumjayasiri&theme=react" height="180"/>
+</p>
+
+---
+
+### 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pathumjayasiri&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 📬 Connect with me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pathum-jayasiri-10a905337">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🐍 Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/pathumjayasiri/pathumjayasiri/blob/output/github-contribution-grid-snake.svg)
+
+---
